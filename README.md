@@ -2,6 +2,6 @@
 This is the course project submitted in ECE4179 by Yusuke Miyashita. The pipeline of fine-tuning RoBERTa and generation of Haiku has been done and achieved reasonable output though many compromisations are made.
 
 ## How to run
-1.  git clone https://github.com/Yusuke710/Haiku_generation_RoBERTa.git
+1.  `git clone https://github.com/Yusuke710/Haiku_generation_RoBERTa.git`
 2.  fix the path of "haiku.csv" in "RoBERTa_haiku.ipynb"
 3.  run "RoBERTa_haiku.ipynb" on google colab
